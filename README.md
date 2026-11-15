@@ -10,6 +10,8 @@ Android 版下载
 
 功能：搜索/歌单播放、歌词同步、9 种音效、车载语音模式（30/60/120 分钟）、锁屏与蓝牙控制。VIP/付费歌曲受版权限制可能无法播放。
 
+v1.4：yubeng-jingting-v1.4.apk：优化了菜单
+
 v1.3：yubeng-jingting-v1.3.apk：增加了智能驾驶模式。
 
 v1.2：yubeng-jingting-v1.2.apk：增加了手机版多菜单模式。
